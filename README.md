@@ -1,4 +1,4 @@
-# Hi there, I'm Sailesh - aka DrgLuffy 👋
+# Hi there, I'm Sailesh - aka [DrgLuffy][youtube] 👋
 
 ## Here are some ideas to get you started:
 - 🔭 I created all these projects on my free time, feel free to use them.
@@ -16,4 +16,6 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCvCgRgpVpnjzORE6FZfr9Cw#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCvCgRgpVpnjzORE6FZfr9Cw#gh-dark-mode-only)
+
+[youtube]: https://www.youtube.com/channel/UCvCgRgpVpnjzORE6FZfr9Cw
 
