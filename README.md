@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**SaileshBK/SaileshBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +9,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Connect with me:
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sailesh-bk#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sailesh-bk#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCvCgRgpVpnjzORE6FZfr9Cw#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCvCgRgpVpnjzORE6FZfr9Cw#gh-dark-mode-only)
+&nbsp;&nbsp;
