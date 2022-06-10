@@ -1,7 +1,6 @@
 # Hi there, I'm Sailesh - aka [DrgLuffy][youtube] 👋
-![coding](https://user-images.githubusercontent.com/101400043/173010632-08222c72-be2f-410a-9969-ef139bea795c.gif)
 
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/101400043/173013662-c8baccb1-6a30-466b-a775-3215320d80bb.gif)
 
 ## Here are some ideas to get you started:
 - 🔭 I created all these projects on my free time, feel free to use them.
