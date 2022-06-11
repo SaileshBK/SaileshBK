@@ -1,7 +1,7 @@
-# Hi there, I'm Sailesh - aka [DrgLuffy][youtube]![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/101400043/173171501-0861c921-5884-4757-b582-23729e144064.gif)
+# Hi there, I'm Sailesh - aka [DrgLuffy][youtube]![](https://user-images.githubusercontent.com/101400043/173171501-0861c921-5884-4757-b582-23729e144064.gif)
 
 
-<!-- ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
+<!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
 ## A little bit about me:
@@ -12,6 +12,8 @@
 - ⚡ Fun fact: I love FPS games. If you play Valorant, Hit me up!
 
 ## Connect with me:
+<!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
+![](https://user-images.githubusercontent.com/101400043/173172504-dab0b87b-de60-4acc-bc64-06dfde960af5.gif)
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/sailesh-bk#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sailesh-bk#gh-dark-mode-only)
 &nbsp;&nbsp;
