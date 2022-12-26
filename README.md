@@ -3,9 +3,6 @@
 
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
-
-## _______________________________![](https://user-images.githubusercontent.com/101400043/173173960-5e1cb557-004b-45a4-afcf-76496d7bf993.gif)About Me![](https://user-images.githubusercontent.com/101400043/173174038-8ff675c0-60f6-4ab6-86c7-f75948176006.gif) ______________________________
-
 <!--STARTS_HERE_QUOTE_README-->
 <i>“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  </i>
 <!--ENDS_HERE_QUOTE_README-->
