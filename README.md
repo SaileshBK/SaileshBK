@@ -12,6 +12,10 @@
 - 💬 Ask me about anything...
 - ⚡ Fun fact: I love FPS games. If you play Valorant, Hit me up!
 
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saileshbk&show_icons=true&locale=en&layout=compact" alt="saileshbk" /></p>
