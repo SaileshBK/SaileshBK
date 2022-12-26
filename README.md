@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  </i>
+<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
