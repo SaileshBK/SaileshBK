@@ -10,4 +10,4 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: siddharth2016/readme-quote@main
+      - uses: siddharth2016/quote-readme@main
