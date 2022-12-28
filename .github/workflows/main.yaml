@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout current repository to Master
-      uses: actions/checkout@v1
+      uses: actions/checkout@v3
     - name: Setup NodeJs
       uses: actions/setup-node@v1
       with:
@@ -30,4 +30,5 @@ jobs:
       uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        AUTHOR: ${{'test'}}
+        CI_COMMIT_MESSAGE: test
+
