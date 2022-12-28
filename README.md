@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝If you think your headphones are dying, check the socket for fluff with a straightened paperclip.❞</i></h4>
+<h4 align = "center"><i>❝If you have the chance, take it!❞</i></h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saileshbk&show_icons=true&locale=en&layout=compact" alt="saileshbk" /></p>
 
