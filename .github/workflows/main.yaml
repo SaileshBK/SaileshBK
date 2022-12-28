@@ -28,20 +28,13 @@ jobs:
       run: node index.js
     - name: Commit and push the update README.md to the repository
       uses: mikeal/publish-to-github-action@master
+      
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     - name: commit
       run: |
        rm .git/COMMIT_EDITMSG 
        
-    - name: commit2
-      run: |
-       echo ${{ github.event.head_commit.message }}
 
-    - name: commit3
-      run: |
-       git push --force origin main
-      
-      
       
 
