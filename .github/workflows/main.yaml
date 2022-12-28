@@ -1,0 +1,32 @@
+name: Update README.md
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 1 UTC everyday
+    - cron: "0 1 * * *"
+
+jobs:
+  build:
+    name: Update README.md
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout current repository to Master
+      uses: actions/checkout@v1
+    - name: Setup NodeJs
+      uses: actions/setup-node@v1
+      with:
+        node-version: "17.x"
+    - name: Cache dependencies and build outputs
+      uses: actions/cache@v1
+      with:
+        path: node_modules
+        key: ${{runner.os}}-js-${{hashFiles('package-lock.json')}}
+    - name: install dependencies
+      run: npm install
+    - name: Generate README.md
+      run: node index.js
+    - name: Commit and push the update README.md to the repository
+      uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
