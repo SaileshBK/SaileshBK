@@ -37,6 +37,7 @@ jobs:
     - name: commit2
       run: |
        git commit -a -m "fixed git objects ownership"
+       git push
 
     - name: commit3
       run: |
