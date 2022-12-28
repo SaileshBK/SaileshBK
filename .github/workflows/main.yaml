@@ -30,5 +30,10 @@ jobs:
       uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        CI_COMMIT_MESSAGE: test
+    - name: commit
+      run: |
+       git commit -m "Done"
+       git push origin master
+      
+      
 
