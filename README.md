@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Stop using the term &quot;busy&quot; as an excuse.❞</i></h4>
+<h4 align = "center"><i>❝Do not seek praise, seek criticism.❞</i></h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saileshbk&show_icons=true&locale=en&layout=compact" alt="saileshbk" /></p>
 
