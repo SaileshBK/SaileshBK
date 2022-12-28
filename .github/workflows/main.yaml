@@ -36,7 +36,7 @@ jobs:
        
     - name: commit2
       run: |
-       git status
+       ${{ github.event.head_commit.message }}
 
     - name: commit3
       run: |
