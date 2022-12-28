@@ -27,7 +27,6 @@ jobs:
     - name: Generate README.md
       run: node index.js
     - name: Commit and push the update README.md to the repository
-      if: github.event_name == 'push'
       run: |
         git commit -a -m "Done"
         git push
