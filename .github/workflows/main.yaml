@@ -27,6 +27,6 @@ jobs:
     - name: Generate README.md
       run: node index.js
     - name: Commit and push the update README.md to the repository
-      uses: mikeal/publish-to-github-action@master
+      uses: mikeal/publish-to-github-action@main
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
