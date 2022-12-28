@@ -33,11 +33,14 @@ jobs:
     - name: commit
       run: |
        rm .git/COMMIT_EDITMSG 
+       
+    - name: commit2
+      run: |
+       git commit -a -m "fixed git objects ownership"
 
     - name: commit3
       run: |
-       GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-       git push origin main
+       git push --force origin main
       
       
       
