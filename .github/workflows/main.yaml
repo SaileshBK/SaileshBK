@@ -32,6 +32,7 @@ jobs:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     - name: commit
       run: |
+       rm .git/COMMIT_EDITMSG 
        git commit -m "Done"
        git push origin master
       
