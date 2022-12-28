@@ -1,4 +1,5 @@
 name: Update README.md
+author: Sailesh
 
 on:
   workflow_dispatch:
@@ -30,3 +31,4 @@ jobs:
       uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        AUTHOR: ${{'test'}}
