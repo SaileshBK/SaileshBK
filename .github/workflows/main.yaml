@@ -33,8 +33,11 @@ jobs:
     - name: commit
       run: |
        rm .git/COMMIT_EDITMSG 
+    - name: commit2
+      run: |
        git commit -m "Done"
        git push origin master
+      
       
       
 
