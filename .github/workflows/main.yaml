@@ -36,7 +36,7 @@ jobs:
     - name: Commit and push the update README.md to the repository
       run: |
         git config --global user.name "SaileshBK"
-        git config --global user.email env.email
+        git config --global user.email "Sailesh.bk1@icloud.com"
         git commit -a -m "Updated README.md"
         git push
        
