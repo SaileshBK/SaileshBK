@@ -6,10 +6,6 @@
 
 <h4 align = "center"><i>❝Learn from your mistakes.❞</i></h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saileshbk&show_icons=true&locale=en&layout=compact" alt="saileshbk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saileshbk&show_icons=true&locale=en" alt="saileshbk" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saileshbk&" alt="saileshbk" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
