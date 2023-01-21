@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.❞</i></h4>
+<h4 align = "center"><i>❝Sometimes it&#39;s best to ignore other people&#39;s advice.❞</i></h4>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saileshbk&" alt="saileshbk" /></p>
 
