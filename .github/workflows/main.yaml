@@ -10,9 +10,13 @@ jobs:
   build:
     name: Update README.md
     runs-on: ubuntu-latest
+    
+    env:
+     email: ${{secrets.email}}
+     userName: ${{secrets.userName}}
     steps:
     - name: Checkout current repository to Master
-      uses: actions/checkout@v1
+      uses: actions/checkout@v3
     - name: Setup NodeJs
       uses: actions/setup-node@v1
       with:
@@ -24,9 +28,18 @@ jobs:
         key: ${{runner.os}}-js-${{hashFiles('package-lock.json')}}
     - name: install dependencies
       run: npm install
+    - name: fetching
+      run: |
+        git fetch
     - name: Generate README.md
       run: node index.js
     - name: Commit and push the update README.md to the repository
-      uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      run: |
+        git config --global user.name "SaileshBK"
+        git config --global user.email "Sailesh.bk1@icloud.com"
+        git commit -a -m "Updated README.md"
+        git push
+       
+
+      
+
