@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝If you don&#39;t want something to be public, don&#39;t post it on the Internet.❞</i></h4>
+<h4 align = "center"><i>❝If you are ever in doubt about whether or not to wash your hair: Wash it.❞</i></h4>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saileshbk&" alt="saileshbk" /></p>
 
