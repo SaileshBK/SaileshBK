@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Keep it simple.❞</i></h4>
+<h4 align = "center"><i>❝Today, do not use the words â€˜Kind of,&#39; â€˜Sort of&#39; or â€˜Maybe.&#39; It either is or it isn&#39;t.❞</i></h4>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saileshbk&" alt="saileshbk" /></p>
 
