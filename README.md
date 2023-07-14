@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝You&#39;re not that important; it&#39;s what you do that counts.❞</i></h4>
+<h4 align = "center"><i>❝Rule number 1: Try not to die. Rule number 2: Don&#39;t be a dick.❞</i></h4>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saileshbk&" alt="saileshbk" /></p>
 
