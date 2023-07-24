@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝A long walk alone with some time to think, can work wonders.❞</i></h4>
+<h4 align = "center"><i>❝Age is of no importance, unless you are a cheese.❞</i></h4>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saileshbk&" alt="saileshbk" /></p>
 
