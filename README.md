@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Don&#39;t ever name files or folders using the word &quot;Final&quot;.❞</i></h4>
+<h4 align = "center"><i>❝Put a piece of kitchen roll in with your bag of leaves to make them last longer.❞</i></h4>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saileshbk&" alt="saileshbk" /></p>
 
