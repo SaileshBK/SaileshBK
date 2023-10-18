@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.❞</i></h4>
+<h4 align = "center"><i>❝Never waste an opportunity to tell someone you love them.❞</i></h4>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saileshbk&" alt="saileshbk" /></p>
 
