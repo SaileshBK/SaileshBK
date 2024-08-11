@@ -32,7 +32,7 @@ jobs:
       run: |
         git fetch
     - name: Generate README.md
-      run: node index.js
+      run: node index.mjs
     - name: Commit and push the update README.md to the repository
       run: |
         git config --global user.name "SaileshBK"
