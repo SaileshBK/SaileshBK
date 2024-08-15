@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Don&#39;t blame me for the fact that competent programming will be too difficult for &quot;the average programmer&quot; — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.❞-Edsger W. Dijkstra</i></h4>
+<h4 align = "center"><i>❝Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.❞-Fred Brooks</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
