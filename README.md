@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.❞-Marvin Minsky</i></h4>
+<h4 align = "center"><i>❝A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.❞-Ted Nelson</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
