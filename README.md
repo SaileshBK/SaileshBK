@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Computer Science is no more about computers than astronomy is about telescopes.❞-Edsger W. Dijkstra</i></h4>
+<h4 align = "center"><i>❝It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.❞-Maurice Wilkes</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
