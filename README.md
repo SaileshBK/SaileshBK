@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.❞-Eric S. Raymond</i></h4>
+<h4 align = "center"><i>❝Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that&#39;s not what I do. I&#39;m a hacker, not an engineer.❞-Jamie Zawinski</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
