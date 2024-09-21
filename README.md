@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.❞-John Carmack</i></h4>
+<h4 align = "center"><i>❝In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.❞-Richard Stallman</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
