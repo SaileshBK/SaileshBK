@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.❞-Michael A. Jackson</i></h4>
+<h4 align = "center"><i>❝Any sufficiently advanced technology is indistinguishable from magic.❞-Arthur C. Clarke</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
