@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.❞-Andy Hertzfeld</i></h4>
+<h4 align = "center"><i>❝A year spent in artificial intelligence is enough to make one believe in God.❞-Alan Perlis</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
