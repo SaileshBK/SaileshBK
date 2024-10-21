@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝When you find you have to add a feature to a program, and the program&#39;s code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.❞-Kent Beck</i></h4>
+<h4 align = "center"><i>❝I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.❞-Douglas Crockford</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
