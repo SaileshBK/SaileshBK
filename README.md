@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝The most powerful programming language is Lisp. If you don&#39;t know Lisp (or its variant, Scheme), you don&#39;t know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.❞-Richard Stallman</i></h4>
+<h4 align = "center"><i>❝I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself &quot;Dijkstra would not have liked this&quot;, well, that would be enough immortality for me.❞-Edsger W. Dijkstra</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
