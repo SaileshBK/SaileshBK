@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.❞-Edsger W. Dijkstra</i></h4>
+<h4 align = "center"><i>❝The best minds of my generation are thinking about how to make people click ads.❞-Jeff Hammerbacher</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
