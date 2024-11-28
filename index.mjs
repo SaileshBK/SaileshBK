@@ -19,9 +19,8 @@ const getRandomItem = (array) => {
  * @returns json.
  */
 const fetchData = async () => {
-    const response = await fetch(Constants.advice_api)
+    return await fetch(Constants.advice_api)
         .then(result => result.json())
-    return getRandomItem(response);
 }
 
 /**
@@ -31,12 +30,14 @@ const fetchData = async () => {
 const generateReadMe = async () => {
     const fetchDataResponse = await fetchData();
     const quoteData = {
-        quote: fetchDataResponse.en,
-        author: fetchDataResponse.author
+        quote: fetchDataResponse.slip.advice,
+        id: fetchDataResponse.slip.id
     };
 
     fs.readFile(Mustache_Main_Dir, (err, data) => {
-        if (err) throw err;
+        if (err) {
+            throw err;
+        }
         const output = Mustache.render(data.toString(), quoteData);
         fs.writeFileSync('README.md', output);
     });
