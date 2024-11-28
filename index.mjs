@@ -19,7 +19,7 @@ const getRandomItem = (array) => {
  * @returns json.
  */
 const fetchData = async () => {
-    const response = await fetch(Constants.programming_quotes_api)
+    const response = await fetch(Constants.advice_api)
         .then(result => result.json())
     return getRandomItem(response);
 }
