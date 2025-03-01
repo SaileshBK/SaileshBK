@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝Rule number 1: Try not to die. Rule number 2: Don&#39;t be a dick.❞</i></h4>
+<h4 align = "center"><i>❝If you&#39;re feeling tired or anxious, a pint of water will almost always make you feel better.❞</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
