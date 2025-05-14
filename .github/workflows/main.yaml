@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
-     email: ${{secrets.email}}
-     userName: ${{secrets.userName}}
+     email: ${{vars.email}}
+     userName: ${{vars.userName}}
     steps:
     - name: Checkout current repository to Master
       uses: actions/checkout@v3
