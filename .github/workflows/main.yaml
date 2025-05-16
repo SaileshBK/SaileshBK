@@ -34,7 +34,7 @@ jobs:
       run: node index.mjs
     - name: Commit and push the update README.md to the repository
       run: |
-        git config --global user.name "$userName"
-        git config --global user.email "$email"
+        git config --local user.name "$userName"
+        git config --local user.email "$email"
         git commit -a -m "Updated README.md"
         git push
