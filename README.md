@@ -4,7 +4,7 @@
 <!-- ![](https://user-images.githubusercontent.com/101400043/173014215-e1c7b34e-0b26-4f41-bb42-81e057b790ac.gif) -->
 
 
-<h4 align = "center"><i>❝One of the top five regrets people have is that they didn&#39;t have the courage to be their true self.❞</i></h4>
+<h4 align = "center"><i>❝Don&#39;t judge a book by its cover, unless it has a synopsis on the back.❞</i></h4>
 
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
 <!-- ![](https://user-images.githubusercontent.com/101400043/173172493-077c8d89-833b-4ea4-a1b3-895cdcc6992b.gif) -->
